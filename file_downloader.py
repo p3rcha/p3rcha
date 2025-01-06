@@ -74,7 +74,7 @@ def download_file():
         time.sleep(1)
         download_file()
     elif not (".com" in url or ".net" in url or ".me" in url or ".org" in url or ".be" in url):
-        rich.print("[red]Por favor, ingrese un URL valido (que contenga .com, .net, .org o .me)[/red]")
+        rich.print("[red]Por favor, ingrese un URL valido (que contenga .com, .net, .org, .me o .be)[/red]")
         time.sleep(1)
         download_file()
     else:
