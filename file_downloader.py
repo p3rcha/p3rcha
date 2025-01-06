@@ -73,7 +73,7 @@ def download_file():
         rich.print("[red]El URL no puede estar vacio, intente de nuevo[/red]")
         time.sleep(1)
         download_file()
-    elif not (".com" in url or ".net" in url or ".me" in url or ".org" in url):
+    elif not (".com" in url or ".net" in url or ".me" in url or ".org" in url or ".be" in url):
         rich.print("[red]Por favor, ingrese un URL valido (que contenga .com, .net, .org o .me)[/red]")
         time.sleep(1)
         download_file()
