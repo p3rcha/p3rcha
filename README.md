@@ -1,44 +1,114 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hey, I'm Josue Segura  
 
-## 🚀 About Me
-Hi there! I'm an enthusiastic tech professional with a passion for innovation, problem-solving, and continuous learning. My expertise spans **Linux command-line interfaces (CLI)**, **networking**, and **network security**, and I thrive in dynamic tech environments where I can deliver impactful solutions. Known for being a quick learner and a collaborative team player, I actively seek opportunities to grow and contribute to meaningful projects.
+### 🚀 Full-Stack Developer | Cybersecurity Enthusiast 
 
-## 🔧 Key Skills
-- **System Architecture & Optimization:** Expertise in designing and troubleshooting systems.
-- **Linux Command Line Proficiency:** Skilled in navigating and scripting with Bash.
-- **Database Management (SQL):** Experience in data analysis and reporting.
-- **Networking Knowledge:** Deep understanding of network types, components, and communication design.
-- **Network Security:** Safeguarding sensitive data with robust security practices.
-- **System Hardening:** Strengthening systems to resist cyber threats.
+```bash
+> whoami
+Full-Stack Developer passionate about building secure, scalable, and impactful systems.
+```
 
-## 📊 Professional Contributions
-In my professional journey, I have:
-- Developed automation tools to enhance departmental efficiency.
-- Conducted data analysis and maintained meticulous documentation.
-- Created formulas that streamlined reporting processes for evaluations.
-- Presented daily data analysis insights to clients, enabling my team to focus on higher-priority tasks.
-- Delivered exceptional communication and service, ensuring client satisfaction.
+---
 
-## 🛠️ Tools & Proficiencies
-- **Office Software:** Excel, PowerPoint, Word, Google Docs, Google Sheets.
-- **Data Analysis & Reporting:** Expertise in presenting actionable insights.
-- **Technical Troubleshooting:** Proficient in both GUI and CLI environments.
+## 🧠 About Me
 
-## 📜 Certifications
-- **Google Cybersecurity Professional Certificate (2024 - Current):**  
-  Currently pursuing; completed 6 out of 8 courses:  
-  - Foundations of Cybersecurity  
-  - Play It Safe: Manage Security Risks  
-  - Connect and Protect: Networks and Network Security  
-  - Tools of the Trade: Linux and SQL  
-  - Assets, Threats and Vulnerabilities  
+I'm a **Full-Stack Developer** with a strong foundation in **Linux, networking, and cybersecurity**.  
+I build modern web applications with performance, security, and scalability in mind.
 
-## 🌟 Values & Work Ethic
-I am:
-- **Innovative:** Always eager to explore new tools and methodologies.
-- **Adaptable:** Flexible work schedule and ability to meet dynamic demands.
-- **Collaborative:** Thrive in team environments and value constructive feedback.
-- **Impact-Oriented:** Committed to delivering solutions that drive results.
+I enjoy:
+- Designing clean architectures
+- Automating workflows
+- Hardening systems
+- Turning complex problems into simple, usable solutions
 
-## 📫 Let's Connect!
-Feel free to explore my repositories or reach out for collaboration! I'm always excited to connect with like-minded professionals and contribute to impactful projects.
+My background in **network security + system hardening** gives me a unique edge when building secure full-stack applications.
+
+---
+
+## 💻 Tech Stack
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+
+### 🖥️ DevOps & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+### 🔐 Security
+- Network Security Fundamentals  
+- System Hardening  
+- Risk Assessment  
+- Vulnerability Analysis  
+- Secure Authentication Practices  
+
+---
+
+## 🏗️ What I Build
+
+- 🔹 Full-Stack Web Applications  
+- 🔹 Secure REST APIs  
+- 🔹 Automation Tools  
+- 🔹 Internal Dashboards & Reporting Systems  
+- 🔹 CLI-based productivity tools  
+- 🔹 Network-aware backend systems  
+
+---
+
+## 📈 GitHub Stats
+
+![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎓 Certifications
+
+**Google Cybersecurity Professional Certificate**  
+
+---
+
+## 💡 Professional Strengths
+
+✔ Automation & workflow optimization  
+✔ Data analysis & reporting systems  
+✔ Technical troubleshooting (GUI + CLI)  
+✔ Client-facing communication  
+✔ Secure system design  
+
+---
+
+## 🌍 Work Philosophy
+
+> "Build it secure. Build it scalable. Build it right."
+
+- 🚀 Innovative  
+- 🔄 Adaptable  
+- 🤝 Collaborative  
+- 🎯 Impact-Oriented  
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to:
+- Full-Stack opportunities  
+- Cybersecurity roles  
+- Open-source collaboration  
+- Interesting technical discussions  
