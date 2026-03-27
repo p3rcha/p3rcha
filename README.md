@@ -62,15 +62,6 @@ Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p3rcha&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rcha&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages">
-</p>
-
----
-
 ## Some Things I've Built
 
 `BookIQ` — Financial SaaS on GKE &nbsp;·&nbsp; `VeteTrack` — Mobile + Hono/Bun &nbsp;·&nbsp; `do.nationcr` — Donation Platform &nbsp;·&nbsp; `Finca Server` — Minecraft + Tebex + WebGL
