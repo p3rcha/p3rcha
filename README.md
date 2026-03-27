@@ -71,4 +71,4 @@ Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-segura-alvarado/)
-[![Email](https://img.shields.io/badge/josuesegu99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josuesegu99@gmail.com)
+[![Email](https://img.shields.io/badge/admin@p3rcha.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:admin@p3rcha.com)
