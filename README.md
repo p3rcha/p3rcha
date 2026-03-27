@@ -1,114 +1,83 @@
-# 👋 Hey, I'm Josue Segura  
+# Josue Segura
 
-### 🚀 Full-Stack Developer | Cybersecurity Enthusiast 
+**Full-Stack Developer · DevOps · AI Builder · Costa Rica**
 
-```bash
-> whoami
-Full-Stack Developer passionate about building secure, scalable, and impactful systems.
-```
+TypeScript across the full stack — React & React Native frontends, Hono/Express backends, Kubernetes on GCP in production.
+Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
 
 ---
 
-## 🧠 About Me
+## What I Do
 
-I'm a **Full-Stack Developer** with a strong foundation in **Linux, networking, and cybersecurity**.  
-I build modern web applications with performance, security, and scalability in mind.
-
-I enjoy:
-- Designing clean architectures
-- Automating workflows
-- Hardening systems
-- Turning complex problems into simple, usable solutions
-
-My background in **network security + system hardening** gives me a unique edge when building secure full-stack applications.
+| | |
+|---|---|
+| **Full-Stack Web** | React 19 with Vite, Tailwind, Framer Motion. Express/Hono REST APIs. PostgreSQL + Redis + Prisma. |
+| **Mobile** | React Native + Expo SDK 54 with NativeWind, Expo Router, TanStack Query, and push notifications. |
+| **DevOps & Cloud** | Docker, Kubernetes on GKE, ArgoCD GitOps, GitHub Actions CI/CD, Prometheus + Alertmanager. |
+| **AI & Automation** | LLM agents with function calling, MCP SDK integrations, N8N workflows, prompt engineering. |
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+**Frontend & Mobile**
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+**Backend**
 
-### 🖥️ DevOps & Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🔐 Security
-- Network Security Fundamentals  
-- System Hardening  
-- Risk Assessment  
-- Vulnerability Analysis  
-- Secure Authentication Practices  
+**Databases & Storage**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-## 🏗️ What I Build
+**DevOps & Cloud**
 
-- 🔹 Full-Stack Web Applications  
-- 🔹 Secure REST APIs  
-- 🔹 Automation Tools  
-- 🔹 Internal Dashboards & Reporting Systems  
-- 🔹 CLI-based productivity tools  
-- 🔹 Network-aware backend systems  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+**AI & Automation**
+
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=flat&logo=openai&logoColor=white)
+![MCP SDK](https://img.shields.io/badge/MCP_SDK-000000?style=flat&logo=anthropic&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🎓 Certifications
-
-**Google Cybersecurity Professional Certificate**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=p3rcha&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3rcha&layout=compact&theme=github_dark&hide_border=true" height="160" alt="Top Languages">
+</p>
 
 ---
 
-## 💡 Professional Strengths
+## Some Things I've Built
 
-✔ Automation & workflow optimization  
-✔ Data analysis & reporting systems  
-✔ Technical troubleshooting (GUI + CLI)  
-✔ Client-facing communication  
-✔ Secure system design  
+`BookIQ` — Financial SaaS on GKE &nbsp;·&nbsp; `VeteTrack` — Mobile + Hono/Bun &nbsp;·&nbsp; `do.nationcr` — Donation Platform &nbsp;·&nbsp; `Finca Server` — Minecraft + Tebex + WebGL
 
 ---
 
-## 🌍 Work Philosophy
+## Connect
 
-> "Build it secure. Build it scalable. Build it right."
-
-- 🚀 Innovative  
-- 🔄 Adaptable  
-- 🤝 Collaborative  
-- 🎯 Impact-Oriented  
-
----
-
-## 📫 Let's Connect
-
-I'm always open to:
-- Full-Stack opportunities  
-- Cybersecurity roles  
-- Open-source collaboration  
-- Interesting technical discussions  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-segura-alvarado/)
+[![Email](https://img.shields.io/badge/josuesegu99@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josuesegu99@gmail.com)
