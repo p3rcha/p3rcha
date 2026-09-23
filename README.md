@@ -10,10 +10,10 @@ I build web and mobile apps end to end, from the interface to the API to the ser
 
 | | |
 |---|---|
-| 🌐 **Web** | React frontends, REST APIs with Hono and Express, PostgreSQL and Redis underneath. |
-| 📱 **Mobile** | React Native apps with Expo: push notifications, offline support, the works. |
-| ☁️ **DevOps** | Docker, Kubernetes on GCP, GitOps with ArgoCD, CI/CD, and monitoring that actually alerts. |
-| 🤖 **AI** | LLM agents with tool calling, MCP integrations, and automations with n8n. |
+| **Web** | React frontends, REST APIs with Hono and Express, PostgreSQL and Redis underneath. |
+| **Mobile** | React Native apps with Expo: push notifications, offline support, the works. |
+| **DevOps** | Docker, Kubernetes on GCP, GitOps with ArgoCD, CI/CD, and monitoring that actually alerts. |
+| **AI** | LLM agents with tool calling, MCP integrations, and automations with n8n. |
 
 ---
 
