@@ -1,9 +1,8 @@
 # Josue Segura
 
-**Full-Stack Developer · DevOps · AI Builder · Costa Rica**
+**Full-Stack Developer · DevOps · Costa Rica 🇨🇷**
 
-TypeScript across the full stack — React & React Native frontends, Hono/Express backends, Kubernetes on GCP in production.
-Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
+I build web and mobile apps end to end, from the interface to the API to the servers they run on. Most full-stack developers hand infrastructure off to someone else; I'd rather own it. When AI goes into something I build, it's because it solves a real problem, not because it's trendy.
 
 ---
 
@@ -11,10 +10,10 @@ Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
 
 | | |
 |---|---|
-| **Full-Stack Web** | React 19 with Vite, Tailwind, Framer Motion. Express/Hono REST APIs. PostgreSQL + Redis + Prisma. |
-| **Mobile** | React Native + Expo SDK 54 with NativeWind, Expo Router, TanStack Query, and push notifications. |
-| **DevOps & Cloud** | Docker, Kubernetes on GKE, ArgoCD GitOps, GitHub Actions CI/CD, Prometheus + Alertmanager. |
-| **AI & Automation** | LLM agents with function calling, MCP SDK integrations, N8N workflows, prompt engineering. |
+| 🌐 **Web** | React frontends, REST APIs with Hono and Express, PostgreSQL and Redis underneath. |
+| 📱 **Mobile** | React Native apps with Expo: push notifications, offline support, the works. |
+| ☁️ **DevOps** | Docker, Kubernetes on GCP, GitOps with ArgoCD, CI/CD, and monitoring that actually alerts. |
+| 🤖 **AI** | LLM agents with tool calling, MCP integrations, and automations with n8n. |
 
 ---
 
@@ -27,21 +26,22 @@ Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Databases & Storage**
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 **DevOps & Cloud**
@@ -55,20 +55,27 @@ Building AI agents and LLM-powered tools. Studying Systems Engineering at UNED.
 
 **AI & Automation**
 
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-412991?style=flat&logo=openai&logoColor=white)
-![MCP SDK](https://img.shields.io/badge/MCP_SDK-000000?style=flat&logo=anthropic&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
 
 ---
 
-## Some Things I've Built
+## Things I've Built
 
-`BookIQ` — Financial SaaS on GKE &nbsp;·&nbsp; `VeteTrack` — Mobile + Hono/Bun &nbsp;·&nbsp; `do.nationcr` — Donation Platform &nbsp;·&nbsp; `Finca Server` — Minecraft + Tebex + WebGL
+| Project | What it is | Built with |
+|---|---|---|
+| **Timbre** | Electronic invoicing API for Costa Rica. XAdES-EPES signing, Hacienda XSD validation, HMAC-signed webhooks | Node · PostgreSQL · Redis · Docker |
+| **BookIQ** | Multi-tenant financial SaaS. Ledger-first, Postgres row-level security, Plaid bank sync | React · Express · Python · GKE · ArgoCD |
+| **VeteTrack** | Mobile app for tracking your pets' care and health | React Native · Expo · Hono · Bun |
+| **DO.NATION** | Crowdfunding platform that donates to animal rescue | React · Express · PostgreSQL |
+| **Finca Server** | Minecraft server with its own website, store, and WebGL experience | Web · Tebex · WebGL |
 
 ---
 
+7+ years shipping · web, mobile & infra · Spanish / English
+
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-segura-alvarado/)
-[![Email](https://img.shields.io/badge/admin@p3rcha.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:admin@p3rcha.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-segura-alvarado/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@p3rcha.com)
